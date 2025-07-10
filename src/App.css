@@ -1,0 +1,15 @@
+.p_tbdr{
+  border: 3px dashed black;
+}
+.common{
+  background-color: red;
+}
+header{
+  height: 140px;
+}
+main{
+  min-height: 450px;
+}
+footer{
+  height: 70px;
+}
